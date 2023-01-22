@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.list{
+  display: flex; 
+  justify-content : space-around;
+  flex-wrap: wrap;
+  margin-top: 20px
+}
+
+.card{
+  margin-top: 20PX;
+  margin-bottom: 20px
+}
+
+.cardd{
+  width: '18rem' 
+}
+
+.link{
+  text-decoration: none;
+   color:white
+}
